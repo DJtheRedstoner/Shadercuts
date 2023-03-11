@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "shadercuts",
+    "name": "Shadercuts",
+    "description": "Quick OptiFine shader keybinds",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["DJtheRedstoner", "agirres"],
+    "credits": "",
+    "logoFile": "assets/shadercuts/logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
